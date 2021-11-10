@@ -1,0 +1,46 @@
+h2 {
+	font-size: 22pt;
+}
+
+p {
+	font-size: 14pt;
+}
+body {
+	background-color: black;
+}
+.Fdiv {
+	background-color: white;
+	width: 500px;
+	height: 375px;
+}
+.Sdiv {
+	display: flex;
+}
+h2 {
+	margin-top: auto;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+img {
+	margin-left: auto;
+	padding: 15px;
+	width: 60px;
+	height: 60px;
+}
+.Tdiv {
+	justify-content: space-between;
+	display: flex;
+}
+.Tdiv input {
+	margin-top: 5%;
+}
+.par {
+	padding: 5px;
+}
+.input {
+	padding: 5px;
+	align-self: left;
+}
+.button {
+	text-align: center;
+}
